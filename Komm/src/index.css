@@ -1,0 +1,8 @@
+@import "tailwindcss";
+:root {
+  font-family: 'Poppins', sans-serif;
+  height: 100vh;
+  background: linear-gradient(to bottom, #121E2F, #395F95);
+  scroll-behavior: smooth; 
+
+}
