@@ -1,0 +1,21 @@
+.skill-cloud-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem; 
+}
+
+.skill-cloud-title {
+  color: white;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.arrow-icon {
+  width: 60px;
+  height: 60px;
+  color: white;
+  margin-bottom: 100px;
+  cursor: none;
+}

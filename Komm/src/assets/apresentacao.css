@@ -4,7 +4,7 @@
   gap: 200px;
   justify-content: center;
   align-items: center;
-  min-height: calc(100vh - 80px); /* subtrai altura da Navbar */
+  min-height: calc(100vh - 200px);
   width: 100%;
   box-sizing: border-box;
 }
