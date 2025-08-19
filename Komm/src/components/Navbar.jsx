@@ -4,7 +4,7 @@ function Navbar() {
     return (
         <header className="navbar">
             <div className="logo">
-                <a href="#topo"><img src="../../public/logoKOMM.png" alt="" className="logo"/></a>
+                <a href="#topo"><img src="/logoKOMM.png" alt="" className="logo"/></a>
             </div>
                 <nav>
                     <ul className="nav-links">

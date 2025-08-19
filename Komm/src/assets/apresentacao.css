@@ -1,0 +1,23 @@
+.apresentacao {
+  display: flex;
+  flex-direction: row;
+  gap: 200px;
+  justify-content: center;
+  align-items: center;
+  min-height: calc(100vh - 80px); /* subtrai altura da Navbar */
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.apresentacao-texto {
+    font-size: 30px;
+    color: white;
+}
+
+.apresentacao-nome {
+    font-size: 50px;
+}
+
+.apresentacao-imagem {
+    width: 400px;
+}
