@@ -13,7 +13,7 @@ function Apresentacao() {
                         </Highlighter>
                     </span><br />
                     e sou desenvolvedor <span className="apresentacao-cargo">
-                        <Highlighter action="underline" color="#28A745">
+                        <Highlighter action="underline" color="#a79a28ff">
                             full-stack
                         </Highlighter>
                     </span>
